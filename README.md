@@ -1,8 +1,8 @@
-# GlowTodo - Modern To-Do App by Muhammad Zayan
+# TurboTask - Modern To-Do App by Muhammad Zayan
 
 ## Overview
 
-**GlowTodo** is a sleek, modern, and fully responsive To-Do list application built with pure HTML, CSS, and JavaScript. It features a glassy UI with blur and glow effects, dark/light mode toggle, animated confetti celebration on task completion, sound effects, countdown timers, task priorities, undo delete, and local storage persistence.
+**TurboTask** is a sleek, modern, and fully responsive To-Do list application built with pure HTML, CSS, and JavaScript. It features a glassy UI with blur and glow effects, dark/light mode toggle, animated confetti celebration on task completion, sound effects, countdown timers, task priorities, undo delete, and local storage persistence.
 
 ---
 
@@ -61,4 +61,4 @@ Feel free to fork the repository and submit pull requests. Any improvements, bug
 
 ---
 
-**Enjoy organizing your tasks with GlowTodo! 🚀**
+**Enjoy organizing your tasks with TurboTask! 🚀**
